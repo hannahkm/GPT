@@ -59,10 +59,9 @@ What I find most fascinating about Allama is that she was able to pick up on the
 
 > "[redacted] wholesome i live by this gormless smile"
 
-> "are you really whoelsome<br/>
-> [redacted]"
+> "are you really whoelsome"
 
->"am in [redacted] elation"
+>"am in elation"
 
 >"i had a 102nd overall pick (at this point it's a scratch) and 48 hours of sleep have barely made me vegetables"
 
@@ -73,7 +72,7 @@ What I find most fascinating about Allama is that she was able to pick up on the
 
 And then my favorite:
 
->"that [redacted] cricket is in here"<br/>
+>"that cricket is in here"<br/>
 >"explain"<br/>
 >"it's a good one"
 
